@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td><a href="https://www.markdownguide.org/basic-syntax/#headings>Heading</a></td>
-    <td># H1 \n ## H2 \n ### H3 </td> 
+    <td># H1 ## H2 ### H3 </td> 
   </tr>
  
 </table>
