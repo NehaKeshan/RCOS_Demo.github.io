@@ -3,7 +3,7 @@ layout: default
 title: RCOS Workshop Demo 3rd Oct 2025
 ---
 
-[Markdown](#markdown) | [Resources](#resources)
+[Markdown](#markdowns) | [Resources](#resources)
 
 
 <h1 class="page-title" style="text-transform:uppercase;" id="header">RCOS Workshop Demo 3rd Oct 2025</h1>
@@ -12,7 +12,7 @@ title: RCOS Workshop Demo 3rd Oct 2025
 <p class="message">A website to demo how to craete github pages for RCOS Wrokshop</p>
 
 <hr>
-<article class="mb-5" id="markdown">
+<article class="mb-5" id="markdowns">
 <content>
   
   
