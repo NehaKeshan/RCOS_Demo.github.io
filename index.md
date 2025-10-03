@@ -33,11 +33,11 @@ title: RCOS Workshop Demo 3rd Oct 2025
   </tr>
   <tr>
     <td>Markdown Guide</td>
-    <td><a href="[ontology](https://www.markdownguide.org/)">Navigating Markdown language</a> </td> 
+    <td><a href="https://www.markdownguide.org/">Navigating Markdown language</a> </td> 
   </tr>
   <tr>
     <td>MarkDown CheatSheet</td>
-    <td><a href="markdown">CheatSheet Table</a> </td> 
+    <td><a href="[markdown]">CheatSheet Table</a> </td> 
   </tr>
 </table>
   
