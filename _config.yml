@@ -10,3 +10,6 @@ plugins:
 
 # To preview site on teh computer
 gem "github-pages", group: :jekyll_plugins
+
+title: [RCOS Demo 3rd Oct]
+description: [Demo for RCOS Workshop]
