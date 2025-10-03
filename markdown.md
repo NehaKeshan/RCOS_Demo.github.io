@@ -8,8 +8,8 @@
     <th>Markdown Syntax</th> 
   </tr>
   <tr>
-    <td><a href="https://www.markdownguide.org/basic-syntax/#headings>Heading"</a></td>
-    <td>  `# H1`<br>`## H2`<br>`### H3`  </td> 
+    <td><a href="https://www.markdownguide.org/basic-syntax/#headings">Heading</a></td>
+    <td> # H1 <br> ## H2 <br> ### H3 </td> 
   </tr>
  
 </table>
