@@ -3,7 +3,7 @@ layout: default
 title: RCOS Workshop Demo 3rd Oct 2025
 ---
 
-[Markdown](#markdowns) | [Resources](#resources)
+[Markdown Language](#markdowns) | [Resources](#resources)
 
 
 <h1 class="page-title" style="text-transform:uppercase;" id="header">RCOS Workshop Demo 3rd Oct 2025</h1>
